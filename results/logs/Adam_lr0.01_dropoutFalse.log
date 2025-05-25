@@ -1,0 +1,30 @@
+
+Epoch 1/10 - Optimizer: Adam, LR: 0.01
+[Adam | lr=0.01] Epoch 1: Train Acc=0.6632, Test Acc=0.8040
+
+Epoch 2/10 - Optimizer: Adam, LR: 0.01
+[Adam | lr=0.01] Epoch 2: Train Acc=0.7892, Test Acc=0.8550
+
+Epoch 3/10 - Optimizer: Adam, LR: 0.01
+[Adam | lr=0.01] Epoch 3: Train Acc=0.8252, Test Acc=0.7980
+
+Epoch 4/10 - Optimizer: Adam, LR: 0.01
+[Adam | lr=0.01] Epoch 4: Train Acc=0.8440, Test Acc=0.8440
+
+Epoch 5/10 - Optimizer: Adam, LR: 0.01
+[Adam | lr=0.01] Epoch 5: Train Acc=0.8690, Test Acc=0.8590
+
+Epoch 6/10 - Optimizer: Adam, LR: 0.01
+[Adam | lr=0.01] Epoch 6: Train Acc=0.8902, Test Acc=0.8120
+
+Epoch 7/10 - Optimizer: Adam, LR: 0.01
+[Adam | lr=0.01] Epoch 7: Train Acc=0.8952, Test Acc=0.8520
+
+Epoch 8/10 - Optimizer: Adam, LR: 0.01
+[Adam | lr=0.01] Epoch 8: Train Acc=0.9066, Test Acc=0.8660
+
+Epoch 9/10 - Optimizer: Adam, LR: 0.01
+[Adam | lr=0.01] Epoch 9: Train Acc=0.9184, Test Acc=0.8800
+
+Epoch 10/10 - Optimizer: Adam, LR: 0.01
+[Adam | lr=0.01] Epoch 10: Train Acc=0.9212, Test Acc=0.8790

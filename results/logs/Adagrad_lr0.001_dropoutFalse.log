@@ -1,0 +1,30 @@
+
+Epoch 1/10 - Optimizer: Adagrad, LR: 0.001
+[Adagrad | lr=0.001] Epoch 1: Train Acc=0.6990, Test Acc=0.7880
+
+Epoch 2/10 - Optimizer: Adagrad, LR: 0.001
+[Adagrad | lr=0.001] Epoch 2: Train Acc=0.7842, Test Acc=0.8010
+
+Epoch 3/10 - Optimizer: Adagrad, LR: 0.001
+[Adagrad | lr=0.001] Epoch 3: Train Acc=0.8046, Test Acc=0.8040
+
+Epoch 4/10 - Optimizer: Adagrad, LR: 0.001
+[Adagrad | lr=0.001] Epoch 4: Train Acc=0.8224, Test Acc=0.8430
+
+Epoch 5/10 - Optimizer: Adagrad, LR: 0.001
+[Adagrad | lr=0.001] Epoch 5: Train Acc=0.8358, Test Acc=0.8410
+
+Epoch 6/10 - Optimizer: Adagrad, LR: 0.001
+[Adagrad | lr=0.001] Epoch 6: Train Acc=0.8442, Test Acc=0.8490
+
+Epoch 7/10 - Optimizer: Adagrad, LR: 0.001
+[Adagrad | lr=0.001] Epoch 7: Train Acc=0.8564, Test Acc=0.8650
+
+Epoch 8/10 - Optimizer: Adagrad, LR: 0.001
+[Adagrad | lr=0.001] Epoch 8: Train Acc=0.8574, Test Acc=0.8630
+
+Epoch 9/10 - Optimizer: Adagrad, LR: 0.001
+[Adagrad | lr=0.001] Epoch 9: Train Acc=0.8648, Test Acc=0.8580
+
+Epoch 10/10 - Optimizer: Adagrad, LR: 0.001
+[Adagrad | lr=0.001] Epoch 10: Train Acc=0.8750, Test Acc=0.8650

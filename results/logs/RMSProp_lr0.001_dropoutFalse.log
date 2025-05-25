@@ -1,0 +1,30 @@
+
+Epoch 1/10 - Optimizer: RMSProp, LR: 0.001
+[RMSProp | lr=0.001] Epoch 1: Train Acc=0.6744, Test Acc=0.7300
+
+Epoch 2/10 - Optimizer: RMSProp, LR: 0.001
+[RMSProp | lr=0.001] Epoch 2: Train Acc=0.7884, Test Acc=0.6790
+
+Epoch 3/10 - Optimizer: RMSProp, LR: 0.001
+[RMSProp | lr=0.001] Epoch 3: Train Acc=0.8398, Test Acc=0.8460
+
+Epoch 4/10 - Optimizer: RMSProp, LR: 0.001
+[RMSProp | lr=0.001] Epoch 4: Train Acc=0.8552, Test Acc=0.8430
+
+Epoch 5/10 - Optimizer: RMSProp, LR: 0.001
+[RMSProp | lr=0.001] Epoch 5: Train Acc=0.8708, Test Acc=0.8360
+
+Epoch 6/10 - Optimizer: RMSProp, LR: 0.001
+[RMSProp | lr=0.001] Epoch 6: Train Acc=0.8874, Test Acc=0.7700
+
+Epoch 7/10 - Optimizer: RMSProp, LR: 0.001
+[RMSProp | lr=0.001] Epoch 7: Train Acc=0.8990, Test Acc=0.8960
+
+Epoch 8/10 - Optimizer: RMSProp, LR: 0.001
+[RMSProp | lr=0.001] Epoch 8: Train Acc=0.9042, Test Acc=0.8350
+
+Epoch 9/10 - Optimizer: RMSProp, LR: 0.001
+[RMSProp | lr=0.001] Epoch 9: Train Acc=0.9154, Test Acc=0.8010
+
+Epoch 10/10 - Optimizer: RMSProp, LR: 0.001
+[RMSProp | lr=0.001] Epoch 10: Train Acc=0.9192, Test Acc=0.7020

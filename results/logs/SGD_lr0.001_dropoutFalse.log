@@ -1,0 +1,30 @@
+
+Epoch 1/10 - Optimizer: SGD, LR: 0.001
+[SGD | lr=0.001] Epoch 1: Train Acc=0.3050, Test Acc=0.4970
+
+Epoch 2/10 - Optimizer: SGD, LR: 0.001
+[SGD | lr=0.001] Epoch 2: Train Acc=0.5174, Test Acc=0.6140
+
+Epoch 3/10 - Optimizer: SGD, LR: 0.001
+[SGD | lr=0.001] Epoch 3: Train Acc=0.6042, Test Acc=0.6910
+
+Epoch 4/10 - Optimizer: SGD, LR: 0.001
+[SGD | lr=0.001] Epoch 4: Train Acc=0.6706, Test Acc=0.7170
+
+Epoch 5/10 - Optimizer: SGD, LR: 0.001
+[SGD | lr=0.001] Epoch 5: Train Acc=0.6998, Test Acc=0.7400
+
+Epoch 6/10 - Optimizer: SGD, LR: 0.001
+[SGD | lr=0.001] Epoch 6: Train Acc=0.7168, Test Acc=0.7590
+
+Epoch 7/10 - Optimizer: SGD, LR: 0.001
+[SGD | lr=0.001] Epoch 7: Train Acc=0.7250, Test Acc=0.7590
+
+Epoch 8/10 - Optimizer: SGD, LR: 0.001
+[SGD | lr=0.001] Epoch 8: Train Acc=0.7328, Test Acc=0.7640
+
+Epoch 9/10 - Optimizer: SGD, LR: 0.001
+[SGD | lr=0.001] Epoch 9: Train Acc=0.7404, Test Acc=0.7690
+
+Epoch 10/10 - Optimizer: SGD, LR: 0.001
+[SGD | lr=0.001] Epoch 10: Train Acc=0.7402, Test Acc=0.7750
