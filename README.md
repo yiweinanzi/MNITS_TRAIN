@@ -53,12 +53,19 @@
 | Adam          | 0.94           | 4        | 0.12           |
 | ...           | ...            | ...      | ...            |
 
+## 📝 Git相关命令
+
+```bash
+git clone https://github.com/yiweinanzi/MNITS_TRAIN.git
+```
+
 ## ▶️ 运行方式
 
 - 第一次运行所需环境
 
 ```bash
 #创建虚拟环境
+cd MNITS_TRAIN
 conda create -n MNIST python==3.8
 conda init bash
 source ~/.bashrc
@@ -87,7 +94,7 @@ python visualize_saved_results.py
 ## 📁 项目结构说明
 
 ```
-mnist_optimizers_enhanced/
+MNITS_TRAIN/
 ├── mnist_data
 │   ├── t10k-images-idx3-ubyte          # 数据集文件
 │   ├── t10k-labels-idx1-ubyte          # 数据集文件
