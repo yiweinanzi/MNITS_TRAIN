@@ -15,6 +15,8 @@
 
 ## 🧠 网络结构
 
+<img src="./overview.png" style="zoom:67%;" />
+
 - 输入：28×28 灰度图像
 - 卷积块 1：`Conv2d(1, 32, 3x3)` → `BatchNorm2d(32)` → `ReLU` → `MaxPool2d(2)`
 - 卷积块 2：`Conv2d(32, 64, 3x3)` → `BatchNorm2d(64)` → `ReLU` → `MaxPool2d(2)`
